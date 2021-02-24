@@ -130,6 +130,7 @@ squirrel.gatherNuts();
 //  action 2: squirel makes den
 squirrel.makeDen();
 //  action 3: squirrel hibernates
+
 squirrel.hibernate();
  
 //  9)
