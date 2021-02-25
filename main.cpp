@@ -150,6 +150,15 @@ dog.pant();
 dog.run();
 //  action 3: dog barks
 dog.bark();
+
+// 11)
+// Noun:henryFord
+// Henry Ford designs a car
+henryFord.designCar();
+// Henry Ford builds cars
+henryFord.buildCars();
+// Henry Ford ships cars abroad
+henryFord.shipCarsAbroad();
  
 
 
